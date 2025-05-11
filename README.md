@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SivaRamSV
 - 👀 I’m interested in building things from scratch
-- 💞️ I’m looking to collaborate on anything which doesnt allow me to sleep 
 - 📫 How to reach me SIVARAMSHIBU@LIVE.COM
 
 <!---
