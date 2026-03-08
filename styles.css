@@ -1,0 +1,178 @@
+:root {
+    --bg: #0a0a0a;
+    --surface: #141414;
+    --border: #262626;
+    --text: #e5e5e5;
+    --text-muted: #a3a3a3;
+    --accent: #3b82f6;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.6;
+    min-height: 100vh;
+}
+
+main {
+    max-width: 640px;
+    margin: 0 auto;
+    padding: 4rem 1.5rem;
+}
+
+header {
+    margin-bottom: 2.5rem;
+}
+
+h1 {
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin-bottom: 0.25rem;
+}
+
+.role {
+    color: var(--text-muted);
+    font-size: 0.95rem;
+}
+
+section {
+    margin-bottom: 2.5rem;
+}
+
+h2 {
+    font-size: 0.7rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-muted);
+    margin-bottom: 0.75rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--border);
+}
+
+.intro p {
+    font-size: 1.05rem;
+    color: var(--text-muted);
+    margin-bottom: 0.5rem;
+}
+
+.intro strong {
+    color: var(--text);
+}
+
+.intro .secondary {
+    font-size: 0.9rem;
+    font-style: italic;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+}
+
+.card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.875rem;
+}
+
+.card .label {
+    display: block;
+    font-weight: 500;
+    font-size: 0.85rem;
+    margin-bottom: 0.35rem;
+    color: var(--text);
+}
+
+.card p {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.7rem;
+    color: var(--text-muted);
+}
+
+.project-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.75rem;
+}
+
+.project {
+    display: block;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: 0.875rem;
+    text-decoration: none;
+    transition: border-color 0.2s;
+}
+
+.project:hover {
+    border-color: var(--accent);
+}
+
+.project strong {
+    display: block;
+    color: var(--text);
+    font-size: 0.9rem;
+    margin-bottom: 0.25rem;
+}
+
+.project p {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+}
+
+.writing p {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+}
+
+.writing a {
+    color: var(--accent);
+    text-decoration: none;
+}
+
+.writing a:hover {
+    text-decoration: underline;
+}
+
+.links nav {
+    display: flex;
+    gap: 1.25rem;
+}
+
+.links a {
+    color: var(--text-muted);
+    text-decoration: none;
+    font-size: 0.85rem;
+    transition: color 0.2s;
+}
+
+.links a:hover {
+    color: var(--accent);
+}
+
+@media (max-width: 500px) {
+    main {
+        padding: 2.5rem 1rem;
+    }
+
+    .grid,
+    .project-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .links nav {
+        flex-wrap: wrap;
+        gap: 1rem;
+    }
+}
