@@ -1,26 +1,28 @@
 # Hey, I'm Sivaram 👋
 
-**Staff Engineer** helping enterprises solve business problems with technology.
+**Computer Science Engineer** · Builder · Curious Mind
 
-I'm passionate about **Applied AI** — taking AI models and building real-world solutions with them. Think agents, MCP (Model Context Protocol), and practical AI systems that actually ship.
+I help enterprises solve business problems with technology. Currently obsessed with **Applied AI** — building agents, MCP servers, and systems that actually ship.
 
-## What I'm Into
+*Always learning. Always building.*
 
-- 🤖 **Applied AI** — Building AI agents, MCP servers, RAG systems
-- 🔧 **Data Systems** — Kafka pipelines, real-time ETL, streaming architectures
-- 🚀 **Shipping Software** — Taking ideas from prototype to production
-- 📚 **Always Learning** — Staying current with AI/ML, new tools, and emerging tech
+## What Excites Me
+
+🤖 **Applied AI** — AI Agents, MCP, RAG Systems, LLMs  
+🔧 **Data Systems** — Kafka, Real-time ETL, Streaming  
+🚀 **Building Things** — From idea to production  
 
 ## Projects
 
 | Project | Description |
 |---------|-------------|
-| [Habits](https://github.com/SivaRamSV/Habits) | Habit tracking app · React + TypeScript |
-| [Portfolio Tracker](https://github.com/SivaRamSV/Portfolio_tracker) | Asset portfolio visualization · React + Node.js |
+| [🌌 Cosmic Timeline](https://sivaramsv.github.io/humans/) | Interactive 3D visualization of 13.8 billion years of cosmic history. WebGL, Three.js, Framer Motion |
+| [✅ Habits](https://github.com/SivaRamSV/Habits) | Modern habit tracking app · React + TypeScript |
+| [📈 Portfolio Tracker](https://github.com/SivaRamSV/Portfolio_tracker) | Asset visualization · React + Node.js |
 
 ## Writing
 
-Thoughts on AI, software development, and tech → **[sivaramsv.substack.com](https://sivaramsv.substack.com/)**
+Thoughts on AI, software, and tech → **[sivaramsv.substack.com](https://sivaramsv.substack.com/)**
 
 ## Connect
 
