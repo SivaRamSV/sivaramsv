@@ -4,7 +4,7 @@
 
 I help enterprises solve business problems with technology. Currently obsessed with **Applied AI** — building agents, MCP servers, and systems that actually ship.
 
-*Always learning. Always building.*
+*"Whatever it takes."*
 
 ## What Excites Me
 
