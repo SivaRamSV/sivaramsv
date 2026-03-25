@@ -1,6 +1,6 @@
 # Sivaram SV
 
-**Software Engineer** · 6+ years
+**Software Engineer**
 
 I ship software that works. Currently focused on Applied AI, data pipelines, and real-time systems.
 
