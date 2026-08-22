@@ -1,9 +1,9 @@
 # Sivaram SV
 
-**Software Engineer**
+Computer Science Engineer · Staff SWE at Palo Alto Networks
 
-I ship software that works. Currently focused on Applied AI, data pipelines, and real-time systems.
+Hi! I'm a computer science engineer with 7+ years of experience designing real-time streaming architectures, platform tooling, and applied AI systems.
 
-**Tech:** Python · React · TypeScript · Kafka · Docker · SQL
+Always curious about the frontiers of software engineering, mental models for AI, and tools for thought.
 
-[GitHub](https://github.com/SivaRamSV) · [LinkedIn](https://www.linkedin.com/in/sivaramsv) · [Blog](https://sivaramsv.substack.com/)
+[Website](https://sivaramsv.github.io/) · [LinkedIn](https://www.linkedin.com/in/sivaramsv) · [Substack](https://sivaramsv.substack.com/)
